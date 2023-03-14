@@ -1,26 +1,16 @@
 {
-    "bio": "I am a final-year PhD at Shanghai Jiao Tong University, advised by <a href='https://scholar.google.com/citations?user=eUbmKwYAAAAJ'>Prof. Bingbing Ni</a>. I received BEng and MEng degrees from the same university, and a double master's degree in France. I was a visiting research fellow in the <a href='https://vcg.seas.harvard.edu/'>Visual Computing Group</a> at Harvard University. I am now visiting EPFL, Switzerland, working with <a href='https://people.epfl.ch/pascal.fua'>Prof. Pascal Fua</a>. I have authored 30+ papers on prestigious journals/conferences, e.g., Cancer Research, eBioMedicine, CVPR, MICCAI, NeurIPS, ICCV, and ICLR. I have been a reviewer for 10+ top-tier venues, a top-ranking participant for several AI competitions, and the lead organizer for <a href='https://ribfrac.grand-challenge.org/'>MICCAI 2020 RibFrac Challenge</a>. My research interests center around the interdisciplinary field of medical image analysis and 3D computer vision. Currently, I have been primarily investigating geometric deep learning in biomedical applications.",
-    "preprint": [
-        "M3DV/RibFrac-Challenge"
-    ],
+    "bio": "I am a third-year PhD at Shanghai Jiao Tong University, advised by <a href='https://scholar.google.com/citations?user=eUbmKwYAAAAJ'>Prof. Bingbing Ni</a>. I received BEng degree from the same university. I have published several papers on prestigious venues, e.g., CVPR, ICLR, AAAI, JBHI, NeurIPS and MICCAI. I serve as the reviewer of CVPR, ECCV, ICCV, AAAI, 3DV, IJCAI, MICCAI and so on. I was awarded Bosch 2021 AIOT scholarship (50 recipients worldwide) and MICCAI 2019 Undergraduate Student Travel Award. I also host <a href='https://ribfrac.grand-challenge.org/'>MICCAI 2020 RibFrac Challenge</a> as organizer. \nMy research interests center around 3D vision, shape analysis and medical image analysis. Currently, I have been primarily investigating neural rendering and 3D reconstruction.",
+    
     "pub": [
-        "MedMNIST/MedMNIST",
-        "M3DV/RibSeg",
-        "M3DV/ACSConv",
-        "M3DV/FracNet",
-        "TrustworthyDL/LeBA",
-        "M3DV/SimTA",
-        "M3DV/AlignShift",
-        "duducheng/DenseSharp"
+        "yizhangphd/FreqPCR",
+        "seanywang0408/RadianceMapping",
+        "seanywang0408/AudioEar",
+        "seanywang0408/RASF",
+        "M3DV/ACSConv"
     ],
     "edu": [
         "M3DV/Kickstart",
-        "duducheng/2048-api",
-        "duducheng/clustering_tutorial"
-    ],
-    "misc": [
-        "M3DV/ai-deadlines",
-        "duducheng/Learning-Notes",
-        "duducheng/deeplabv3p_gluon"
+        "seanywang0408/Crawling-CV-Conference-Papers",
+        "seanywang0408/PyTorch-Template"
     ]
 }
