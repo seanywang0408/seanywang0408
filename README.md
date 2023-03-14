@@ -1,6 +1,11 @@
-### Hi there 👋
+# Bio.
+I am a third-year PhD at Shanghai Jiao Tong University, advised by <a href='https://scholar.google.com/citations?user=eUbmKwYAAAAJ'>Prof. Bingbing Ni</a>. I received BEng degree from the same university. I have published several papers on prestigious venues, e.g., CVPR, ICLR, AAAI, JBHI, NeurIPS and MICCAI. I serve as the reviewer of CVPR, ECCV, ICCV, AAAI, 3DV, IJCAI, MICCAI and so on. I was awarded Bosch 2021 AIOT scholarship (50 recipients worldwide) and MICCAI 2019 Undergraduate Student Travel Award. I also host <a href='https://ribfrac.grand-challenge.org/'>MICCAI 2020 RibFrac Challenge</a> as the organizer. 
+
+My research interests center around 3D vision, shape analysis and medical image analysis. Currently, I have been primarily investigating neural rendering and 3D reconstruction.
 
 <!--
+### Hi there 👋
+
 **seanywang0408/seanywang0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
