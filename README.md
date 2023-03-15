@@ -6,11 +6,15 @@ My research interests center around 3D vision, neural rendering and shape analys
 
 ## Research Projects
 ### Publications
-* [FreqPCR](https://github.com/yizhangphd/FreqPCR): [CVPR 2023]  Frequency-Modulated Point Cloud Rendering with Easy Editing
-* [RadianceMapping](https://github.com/seanywang0408/RadianceMapping): [AAAI 2023] Boosting Point Clouds Rendering via Radiance Mapping
-* [AudioEar](https://github.com/seanywang0408/AudioEar): [AAAI 2023] AudioEar: Single-View Ear Reconstruction for Personalized Spatial Audio 
-* [RASF](https://github.com/seanywang0408/RASF): [ICLR 2023] Representation-Agnostic Shape Fields
-* [ACSConv](https://github.com/M3DV/ACSConv): [IEEE JBHI] Reinventing 2D Convolutions for 3D Images
+* [FreqPCR](https://github.com/yizhangphd/FreqPCR): [***CVPR 2023***]  Frequency-Modulated Point Cloud Rendering with Easy Editing
+* [RadianceMapping](https://github.com/seanywang0408/RadianceMapping): [***AAAI 2023***] Boosting Point Clouds Rendering via Radiance Mapping
+* [AudioEar](https://github.com/seanywang0408/AudioEar): [***AAAI 2023***] AudioEar: Single-View Ear Reconstruction for Personalized Spatial Audio 
+* [RASF](https://github.com/seanywang0408/RASF): [***ICLR 2023***] Representation-Agnostic Shape Fields
+* [ACSConv](https://github.com/M3DV/ACSConv): [***IEEE JBHI***] Reinventing 2D Convolutions for 3D Images
+
+### Preprint / Technical Reports
+* [Uncertainty Quantification](https://arxiv.org/abs/1909.06030): [***ArXiv***] Evaluating and Boosting Uncertainty Quantification in Classification
+* [RibFrac](https://ribfrac.grand-challenge.org/): [***MICCAI Challenge***] A challenge for rib fracture detection and classification
 
 ## Educational Projects
 * [Kickstart](https://github.com/M3DV/Kickstart): Study route for learners in machine learning / deep learning / computer vision ![#stars:67](https://img.shields.io/github/stars/M3DV/Kickstart) ![#forks:16](https://img.shields.io/github/forks/M3DV/Kickstart)
@@ -18,8 +22,6 @@ My research interests center around 3D vision, neural rendering and shape analys
 * [Pytorch-Template](https://github.com/seanywang0408/PyTorch-Template): A PyTorch codebase for developing AI projects
 
 
-### Preprint / Technical Reports
-* [Uncertainty Quantification](https://arxiv.org/abs/1909.06030): [ArXiv] Evaluating and Boosting Uncertainty Quantification in Classification
 
 <!--
 ### Hi there 👋
