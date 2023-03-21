@@ -6,7 +6,7 @@ My research interests center around 3D vision, neural rendering and shape analys
 
 ## Research Projects
 ### Publications
-* [FreqPCR](https://github.com/yizhangphd/FreqPCR): [***CVPR 2023***]  Frequency-Modulated Point Cloud Rendering with Easy Editing
+* [FreqPCR](https://github.com/yizhangphd/FreqPCR): [***CVPR 2023 Highlight*** *(10% of accepted papers)*]  Frequency-Modulated Point Cloud Rendering with Easy Editing
 * [RadianceMapping](https://github.com/seanywang0408/RadianceMapping): [***AAAI 2023***] Boosting Point Clouds Rendering via Radiance Mapping
 * [AudioEar](https://github.com/seanywang0408/AudioEar): [***AAAI 2023***] AudioEar: Single-View Ear Reconstruction for Personalized Spatial Audio 
 * [RASF](https://github.com/seanywang0408/RASF): [***ICLR 2023***] Representation-Agnostic Shape Fields
